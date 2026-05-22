@@ -1,4 +1,4 @@
-# 🌍 AI Travel Concierge (Production-Ready Architecture)
+# 🌍 AI Travel Concierge 
 
 ![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen)
 ![Architecture](https://img.shields.io/badge/Architecture-Multi--Agent-blue)

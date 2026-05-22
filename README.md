@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen)
 ![Architecture](https://img.shields.io/badge/Architecture-Multi--Agent-blue)
-![Tech](https://img.shields.io/badge/Tech-n8n%20%7C%20Airflow%20%7C%20Qdrant%20%7C%20MCP-orange)
+![Tech](https://img.shields.io/badge/Tech-n8n%20%7C%20Airflow%20%7C%20Qdrant%20%7C%20MCPDocker-orange)
 
 Производственный прототип интеллектуального travel-ассистента, демонстрирующий современные паттерны проектирования AI-систем: **Multi-Agent Orchestration (Supervisor/Worker)**, **Agentic RAG** и **Dual-Loop Architecture** (разделение Data Pipeline и Inference).
 

@@ -131,4 +131,4 @@ graph TD
 - Оценивать релевантность извлеченных из Qdrant чанков (Retrieval Evaluation).
 
 ---
-*Разработано как демонстрация компетенций Senior AI Architect / AI Engineer.*
+*Разработано как демонстрация компетенций AI Architect / AI Engineer.*
